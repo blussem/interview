@@ -10,6 +10,7 @@ Start by forking this repository into your profile
 
 - [ ] Allow user to view list of todo's
 - [ ] Allow user to create a todo
+- [ ] Allow user to update a todo
 - [ ] Allow user to delete a todo
 
 # Functionality
