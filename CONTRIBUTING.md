@@ -26,4 +26,4 @@ Start by forking this repository into your profile
 
 # Submitting
 
-Upon completion feel free to either commit your changes directly to `main` or open a pull request.
+Upon completion feel free to either commit your changes directly to `main` or open a pull request
