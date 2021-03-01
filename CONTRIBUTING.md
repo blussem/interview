@@ -23,3 +23,7 @@ Start by forking this repository into your profile
 - [ ] Use any functional programing utility library (e.g. [ramda](https://ramdajs.com/))
 - [ ] Ensure application runs with no errors/warnings
 - [ ] Leave instructions in a `README.md` file on how to setup and test your code
+
+# Submitting
+
+Upon completion feel free to either commit your changes directly to `main` or open a pull request.
